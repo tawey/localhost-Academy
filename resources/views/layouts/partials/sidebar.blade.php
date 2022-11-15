@@ -96,7 +96,7 @@
                   </a>
                 </li>
                 <li class="nav-item ">
-                  <a class="nav-link" href="../examples/pages/lock.html">
+                  <a class="nav-link" href="{{route('fermeture')}}">
                     <span class="sidebar-mini"> LSP </span>
                     <span class="sidebar-normal"> Lock Screen Page </span>
                   </a>
